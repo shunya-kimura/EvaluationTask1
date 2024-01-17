@@ -20,7 +20,7 @@
 </script>
 </head>
 <body>
-   <h1>書籍一覧</h1>
+   <h3>書籍一覧</h3>
    <table class="table table-striped">
        <thead>
            <tr>
@@ -56,5 +56,8 @@
        %>
        </tbody>
    </table>
+   
+   <a href="create" class="btn btn-secondary">新規登録</a>
+   
 </body>
 </html>
